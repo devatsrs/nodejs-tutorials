@@ -1,2 +1,5 @@
 nodemysql/.vscode/
 nodemysql/node_modules/
+node_modules
+.vscode
+/login/package-lock.json
